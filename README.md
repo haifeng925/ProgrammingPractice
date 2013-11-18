@@ -1,4 +1,10 @@
-cs-s
-====
+# repository cs-s #
+Study of CS Skills
 
-study of cs skills
+## Folder markdown ##
+for markdown 
+
+
+## Folder CSS ##
+
+## HTML5 ##
