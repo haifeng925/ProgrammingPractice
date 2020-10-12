@@ -1,4 +1,4 @@
-# Computer Science Skill #
+# Programming Practice #
 Study of CS Skills
 
 ## Folder markdown ##
