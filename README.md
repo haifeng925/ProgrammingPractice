@@ -1,4 +1,4 @@
-# repository cs-s #
+# Computer Science Skill #
 Study of CS Skills
 
 ## Folder markdown ##
